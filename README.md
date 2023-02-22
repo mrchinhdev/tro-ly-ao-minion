@@ -5,7 +5,7 @@ Using python language to create a virtual assistant that can listen and follow t
 
 ## How to use my code
 - Install the pyttsx3 library (pip install pyttsx3)
-- Install the Speech_recognition library (pip install Speech_recognition)
+- Install the Speech_recognition library (pip install SpeechRecognition)
 - Run file main.py
 
 ## Requirements
